@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Delong Zhu's"
-description              : "Focusing on AI security and multimedia forensics"
-repository               : "Delong-Zhu/Delong-Zhu.github.io"
+description              : "Focusing on multimedia forensics and AI security"
+repository               : "Hisssec/Hisssec.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Delong-Zhu"
+  github           : "Hisssec"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/210/9651.html"
   orcid            : "https://orcid.org/0009-0008-9410-8173"
   googlescholar    : "https://scholar.google.com.hk/citations?user=UNd2St8AAAAJ"
   pinterest        :
