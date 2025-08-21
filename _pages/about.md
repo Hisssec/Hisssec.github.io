@@ -24,12 +24,12 @@ I am a third-year Master's student at the School of Computer Science and Technol
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 One paper [Celeb-DF++](https://hisssec.github.io/) regarding Deepfakes has been uploaded to arXiv.
-- *2025.07*: &nbsp;🎉🎉 One paper [FacePoison](https://arxiv.org/abs/2412.01101) on Proactive Deepfake Detection is accepted by TDSC 2025. 
+- *2025.07*: &nbsp;🎉🎉 One paper [FacePoison](https://arxiv.org/abs/2412.01101) on Proactive Deepfake Detection is accepted by **TDSC 2025**. 
 - *2025.05*: &nbsp;🎉🎉 One paper [Forensics Adapter](https://arxiv.org/abs/2411.19715) regarding Deepfake Detection has been uploaded to arXiv. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='./images/overview/Celeb-DF++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='./images/overview/Celeb-DF++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Celeb-DF++: A Large-scale Challenging Video DeepFake Benchmark for Generalizable Forensics](https://hisssec.github.io/)
@@ -37,12 +37,14 @@ I am a third-year Master's student at the School of Computer Science and Technol
 Yuezun Li*, **Delong Zhu**, Xinjie Cui, Siwei Lyu
 
 [**Code**](https://github.com/OUC-VAS/Celeb-DF-PP) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- arXiv:2507.18015, 2025.
+- An extension of Celeb-DF dataset.
 - Extended from CVPR 2020.
 - Deepfakes.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='./images/overview/ForensicsAdapter++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='./images/overview/ForensicsAdapter++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Forensics Adapter: Unleashing CLIP for Generalizable Face Forgery Detection](https://arxiv.org/abs/2411.19715)
@@ -50,6 +52,7 @@ Yuezun Li*, **Delong Zhu**, Xinjie Cui, Siwei Lyu
 Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 
 [**Code**](https://github.com/OUC-VAS/ForensicsAdapter) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- arXiv:2411.19715, 2025. 
 - Extended from CVPR 2025.
 - Deepfake Detection.
 </div>
@@ -63,7 +66,7 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 **Delong Zhu**, Yuezun Li*, Baoyuan Wu, Jiaran Zhou, Zhibo Wang, Siwei Lyu
 
 [**Code**](https://github.com/OUC-VAS/FacePoison) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025
+- IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025.
 - Extended from ICME 2023.
 - Proactive Deepfake Defense.
 </div>
