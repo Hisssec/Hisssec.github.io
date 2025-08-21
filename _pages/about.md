@@ -29,7 +29,7 @@ I am a third-year Master's student at the School of Computer Science and Technol
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='./images/overview/Celeb-DF++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='./images/overview/Celeb-DF++.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Celeb-DF++: A Large-scale Challenging Video DeepFake Benchmark for Generalizable Forensics](https://hisssec.github.io/)
