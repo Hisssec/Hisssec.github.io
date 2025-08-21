@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Master's student at the School of Computer Science and Technology, Ocean University of China, under the supervision of Dr. [Yuezun Li](https://yuezunli.github.io/). I am currently a member of the [Visual Analysis and Safety (VAS) Lab](https://yuezunli.github.io/ligroup/), where I conduct research in the fields of multimedia forensics and AI security. Prior to this, I received my Bachelor of Engineering degree from Qingdao Agricultural University in 2023.
+I am a third-year Master's student at the School of Computer Science and Technology, Ocean University of China, under the supervision of Dr. [Yuezun Li](https://yuezunli.github.io/). I am currently a member of the [Visual Analysis and Safety (VAS) Lab](https://yuezunli.github.io/ligroup/), where I conduct research in the fields of multimedia forensics and AI security. Prior to this, I received my Bachelor of Engineering degree from Qingdao Agricultural University in 2023.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=UNd2St8AAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=UNd2St8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
