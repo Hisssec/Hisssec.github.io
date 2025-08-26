@@ -79,12 +79,12 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2023.09 - 2026.06 (now)*, Ocean University of China, Qingdao. 
-- *2019.09 - 2023.06*, Qingdao Agricultural University, Qingdao. 
+- *2023.09 - 2026.06 (now)*, [Ocean University of China](https://www.ouc.edu.cn/), Qingdao. 
+- *2019.09 - 2023.06*, [Qingdao Agricultural University](https://www.qau.edu.cn/), Qingdao. 
 
 <!--# 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.05 - 2025.06*, [Haier](https://www.haier.com/cn/), Qingdao.
+- *2025.05 - 2025.06*, Research Intern, Large-scale Model Algorithms, [Haier](https://www.haier.com/cn/), Qingdao.
