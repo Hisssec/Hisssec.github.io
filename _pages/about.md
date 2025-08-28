@@ -23,7 +23,7 @@ I am a third-year Master's student at the School of Computer Science and Technol
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 One paper [Celeb-DF++](https://arxiv.org/pdf/2507.18015) regarding Deepfakes has been uploaded to arXiv.
+- *2025.07*: &nbsp;🎉🎉 One paper [Celeb-DF++](https://arxiv.org/abs/2507.18015) regarding Deepfakes has been uploaded to arXiv.
 - *2025.07*: &nbsp;🎉🎉 One paper [FacePoison](https://arxiv.org/abs/2412.01101) on Proactive Deepfake Detection is accepted by **TDSC 2025**. 
 - *2025.05*: &nbsp;🎉🎉 One paper [Forensics Adapter](https://arxiv.org/abs/2411.19715) regarding Deepfake Detection has been uploaded to arXiv. 
 
@@ -32,7 +32,7 @@ I am a third-year Master's student at the School of Computer Science and Technol
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='./images/overview/Celeb-DF++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Celeb-DF++: A Large-scale Challenging Video DeepFake Benchmark for Generalizable Forensics](https://arxiv.org/pdf/2507.18015)
+[Celeb-DF++: A Large-scale Challenging Video DeepFake Benchmark for Generalizable Forensics](https://arxiv.org/abs/2507.18015)
 
 Yuezun Li*, **Delong Zhu**, Xinjie Cui, Siwei Lyu
 
