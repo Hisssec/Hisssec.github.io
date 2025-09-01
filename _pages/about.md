@@ -47,7 +47,7 @@ Yuezun Li*, **Delong Zhu**, Xinjie Cui, Siwei Lyu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='./images/overview/ForensicsAdapter++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Forensics Adapter: Unleashing CLIP for Generalizable Face Forgery Detection](https://arxiv.org/abs/2411.19715)
+[**Forensics Adapter: Unleashing CLIP for Generalizable Face Forgery Detection**](https://arxiv.org/abs/2411.19715)
 
 Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 
@@ -61,7 +61,7 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF A</div><img src='./images/overview/FacePoison.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hiding Faces in Plain Sight: Defending DeepFakes by Disrupting Face Detection](https://arxiv.org/abs/2412.01101)
+[**Hiding Faces in Plain Sight: Defending DeepFakes by Disrupting Face Detection**](https://arxiv.org/abs/2412.01101)
 
 **Delong Zhu**, Yuezun Li*, Baoyuan Wu, Jiaran Zhou, Zhibo Wang, Siwei Lyu
 
