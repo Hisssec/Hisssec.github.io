@@ -36,7 +36,7 @@ I am a third-year Master's student at the School of Computer Science and Technol
 
 Yuezun Li*, **Delong Zhu**, Xinjie Cui, Siwei Lyu
 
-[**Code**](https://github.com/OUC-VAS/Celeb-DF-PP) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/OUC-VAS/Celeb-DF-PP) **| Citations: 1**
 - arXiv:2507.18015, 2025.
 - An extension of [Celeb-DF](https://github.com/yuezunli/celeb-deepfakeforensics) dataset.
 - Extended from CVPR 2020.
@@ -51,7 +51,7 @@ Yuezun Li*, **Delong Zhu**, Xinjie Cui, Siwei Lyu
 
 Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 
-[**Code**](https://github.com/OUC-VAS/ForensicsAdapter) **| Citations: 12**
+[**Code**](https://github.com/OUC-VAS/ForensicsAdapter) **| Citations: 13**
 - arXiv:2411.19715, 2025. 
 - Extended from CVPR 2025.
 - Deepfake Detection.
