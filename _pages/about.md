@@ -51,7 +51,7 @@ Yuezun Li*, **Delong Zhu**, Xinjie Cui, Siwei Lyu
 
 Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 
-[**Code**](https://github.com/OUC-VAS/ForensicsAdapter) **| Citations: 13**
+[**Code**](https://github.com/OUC-VAS/ForensicsAdapter) **| Citations: 1**
 - arXiv:2411.19715, 2025. 
 - Extended from CVPR 2025.
 - Deepfake Detection.
