@@ -92,4 +92,4 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 
 # 📑 Services
 <!-- - Conference Reviewer: -->
-- Journal Reviewer: SPL.
+- Journal Reviewer: TIP, SPL.
