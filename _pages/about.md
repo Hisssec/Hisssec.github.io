@@ -59,7 +59,7 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF A</div><img src='./images/overview/FacePoison.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF-A</div><img src='./images/overview/FacePoison.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Hiding Faces in Plain Sight: Defending DeepFakes by Disrupting Face Detection**](https://arxiv.org/abs/2412.01101)
