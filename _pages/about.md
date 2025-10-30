@@ -91,6 +91,11 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 - *2025.05 - 2025.06*, Research Intern, Large-scale Model Algorithms, [Haier](https://www.haier.com/cn/), Qingdao.
 
 # 📑 Services
-<!-- - Conference Reviewer: -->
-- Journal Reviewer: IEEE TIP, IEEE SPL.
-    - Journal Reviewer: IEEE TIP, IEEE SPL.
+- **Conference Reviewer**
+    - CCF-A:
+    - CCF-B: 
+    - CCF-C:
+- **Journal Reviewer**
+    - CCF-A: IEEE TIP
+    - CCF-B: 
+    - CCF-C: IEEE SPL
