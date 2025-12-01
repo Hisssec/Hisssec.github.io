@@ -38,7 +38,7 @@ I am a third-year Master's student at the School of Computer Science and Technol
 
 Yuezun Li*, **Delong Zhu**, Xinjie Cui, Siwei Lyu
 
-[**Code**](https://github.com/OUC-VAS/Celeb-DF-PP) **| Citations: 3**
+[**Code**](https://github.com/OUC-VAS/Celeb-DF-PP)**: 20** **| Citations: 3**
 - arXiv:2507.18015, 2025.
 - An extension of [Celeb-DF](https://github.com/yuezunli/celeb-deepfakeforensics) dataset.
 - Extended from CVPR 2020.
@@ -67,7 +67,7 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 
 **Delong Zhu**, Yuezun Li*, Baoyuan Wu, Jiaran Zhou, Zhibo Wang, Siwei Lyu
 
-[**Code**](https://github.com/OUC-VAS/FacePoison) **| Citations: 4**
+[**Code: 10**](https://github.com/OUC-VAS/FacePoison) **| Citations: 4**
 - IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025.
 - Extended from ICME 2023.
 - Proactive Deepfake Detection.
@@ -77,7 +77,8 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🏆 Honors and Awards
-- *2025.10*, BYD Scholarship.
+- *2025.10*, BYD Scholarship, ￥20,000
+- *2025.09*, BYD Scholarship, ￥20,000
 
 # 📖 Educations
 - *2023.09 - 2026.06 (now)*, [Ocean University of China](https://www.ouc.edu.cn/), Qingdao. 
