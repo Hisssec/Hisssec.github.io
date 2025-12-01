@@ -24,7 +24,7 @@ I am a third-year Master's student at the School of Computer Science and Technol
 
 
 # 🔥 News
-- *2025.11*: &nbsp;📍📍 Attended The 6th CSIG China Conference on Media Forensics and Security, **ChinaMFS 2025**.
+- *2025.11*: &nbsp;📍📍 Attended The 6th CSIG China Conference on Media Forensics and Security (**ChinaMFS**), 2025.
 - *2025.07*: &nbsp;🎉🎉 One paper [Celeb-DF++](https://arxiv.org/abs/2507.18015) regarding Deepfakes has been uploaded to arXiv.
 - *2025.07*: &nbsp;🎉🎉 One paper [FacePoison](https://ieeexplore.ieee.org/abstract/document/11106399) on Proactive Deepfake Detection is accepted by **TDSC 2025**. 
 - *2025.05*: &nbsp;🎉🎉 One paper [Forensics Adapter++](https://arxiv.org/abs/2411.19715) regarding Deepfake Detection has been uploaded to arXiv. 
@@ -38,7 +38,7 @@ I am a third-year Master's student at the School of Computer Science and Technol
 
 Yuezun Li*, **Delong Zhu**, Xinjie Cui, Siwei Lyu
 
-[**Code**](https://github.com/OUC-VAS/Celeb-DF-PP)**: 20** **| Citations: 3**
+[**Code**](https://github.com/OUC-VAS/Celeb-DF-PP)**| Stars: 20 | Citations: 3**
 - arXiv:2507.18015, 2025.
 - An extension of [Celeb-DF](https://github.com/yuezunli/celeb-deepfakeforensics) dataset.
 - Extended from CVPR 2020.
@@ -53,7 +53,7 @@ Yuezun Li*, **Delong Zhu**, Xinjie Cui, Siwei Lyu
 
 Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 
-[**Code**](https://github.com/OUC-VAS/ForensicsAdapter) **| Citations: 1**
+[**Code**](https://github.com/OUC-VAS/ForensicsAdapter) **| Stars: 73 | Citations: 1**
 - arXiv:2411.19715, 2025. 
 - Extended from CVPR 2025.
 - Deepfake Detection.
@@ -67,7 +67,7 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 
 **Delong Zhu**, Yuezun Li*, Baoyuan Wu, Jiaran Zhou, Zhibo Wang, Siwei Lyu
 
-[**Code**](https://github.com/OUC-VAS/FacePoison) **Stars: 10 | Citations: 4**
+[**Code**](https://github.com/OUC-VAS/FacePoison) **| Stars: 10 | Citations: 4**
 - IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025.
 - Extended from ICME 2023.
 - Proactive Deepfake Detection.
@@ -78,7 +78,7 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 
 # 🏆 Honors and Awards
 - *2025.10*, BYD Scholarship, ￥20,000.
-- *2025.09*, Excellent Graduate Student, Ocean University of China.
+- *2025.09*, Excellent Graduate Student, Ocean University of China, Qingdao, China. 
 
 # 📖 Educations
 - *2023.09 - 2026.06 (now)*, [Ocean University of China](https://www.ouc.edu.cn/), Qingdao, China. 
