@@ -77,7 +77,7 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🏆 Honors and Awards
-- *2025.10*, BYD Scholarship, ￥20,000.
+- *2025.12*, 1st BYD Scholarship Award, ￥20,000.
 - *2025.10*, Excellent Graduate Student, Ocean University of China, Qingdao, China. 
 
 # 📖 Educations
