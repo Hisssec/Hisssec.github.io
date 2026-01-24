@@ -38,7 +38,7 @@ I am a third-year Master's student at the School of Computer Science and Technol
 
 Yuezun Li*, **Delong Zhu**, Xinjie Cui, Siwei Lyu
 
-[**Code**](https://github.com/OUC-VAS/Celeb-DF-PP) **| Stars: 25 | Citations: 5**
+[**Code**](https://github.com/OUC-VAS/Celeb-DF-PP) **| Stars: 26 | Citations: 5**
 - arXiv:2507.18015, 2025.
 - An extension of [Celeb-DF](https://github.com/yuezunli/celeb-deepfakeforensics) dataset.
 - Extended from CVPR 2020.
@@ -53,7 +53,7 @@ Yuezun Li*, **Delong Zhu**, Xinjie Cui, Siwei Lyu
 
 Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 
-[**Code**](https://github.com/OUC-VAS/ForensicsAdapter) **| Stars: 79 | Citations: 1**
+[**Code**](https://github.com/OUC-VAS/ForensicsAdapter) **| Stars: 82 | Citations: 1**
 - arXiv:2411.19715, 2025. 
 - Extended from CVPR 2025.
 - Deepfake Detection.
@@ -67,7 +67,7 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 
 **Delong Zhu**, Yuezun Li*, Baoyuan Wu, Jiaran Zhou, Zhibo Wang, Siwei Lyu
 
-[**Code**](https://github.com/OUC-VAS/FacePoison) **| Stars: 10 | Citations: 4**
+[**Code**](https://github.com/OUC-VAS/FacePoison) **| Stars: 11 | Citations: 4**
 - IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025.
 - Extended from ICME 2023.
 - Proactive Deepfake Detection.
@@ -94,7 +94,7 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 # 📑 Services
 - **Conference Reviewer**
     - CCF-A:
-    - CCF-B: 
+    - CCF-B: ICME'26,
     - CCF-C:
 - **Journal Reviewer**
     - CCF-A: IEEE TIP,
