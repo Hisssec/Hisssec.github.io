@@ -25,9 +25,9 @@ I am a third-year Master's student at the School of Computer Science and Technol
 
 # 🔥 News
 - *2025.11*: &nbsp;📍📍 Attended The 6th CSIG China Conference on Media Forensics and Security (**ChinaMFS**), 2025.
-- *2025.07*: &nbsp;🎉🎉 One paper [Celeb-DF++](https://arxiv.org/abs/2507.18015) regarding Deepfakes has been uploaded to arXiv.
-- *2025.07*: &nbsp;🎉🎉 One paper [FacePoison](https://ieeexplore.ieee.org/abstract/document/11106399) on Proactive Deepfake Detection is accepted by **TDSC 2025**. 
-- *2025.05*: &nbsp;🎉🎉 One paper [Forensics Adapter++](https://arxiv.org/abs/2411.19715) regarding Deepfake Detection has been uploaded to arXiv. 
+- *2025.07*: &nbsp;🎉🎉 One paper [**Celeb-DF++**](https://arxiv.org/abs/2507.18015) regarding Deepfakes has been uploaded to arXiv.
+- *2025.07*: &nbsp;🎉🎉 One paper [**FacePoison**](https://ieeexplore.ieee.org/abstract/document/11106399) on Proactive Deepfake Detection is accepted by **TDSC 2025**. 
+- *2025.05*: &nbsp;🎉🎉 One paper [**Forensics Adapter++**](https://arxiv.org/abs/2411.19715) regarding Deepfake Detection has been uploaded to arXiv. 
 
 # 📝 Publications 
 
@@ -94,7 +94,7 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 # 📑 Services
 - **Conference Reviewer**
     - CCF-A:
-    - CCF-B: ICME 2026,
+    - CCF-B: ICME'26;
     - CCF-C:
 - **Journal Reviewer**
     - CCF-A: IEEE TIP,
