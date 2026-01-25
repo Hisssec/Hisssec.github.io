@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <span class='anchor' id='services'></span>
 
-I am a third-year Master's student at the School of Computer Science and Technology, Ocean University of China, under the supervision of Dr. [Yuezun Li](https://yuezunli.github.io/). I am currently a member of the [Visual Analysis and Safety (VAS) Lab](https://yuezunli.github.io/lab.html), where I conduct research in the fields of multimedia forensics and AI security. Prior to this, I received my Bachelor of Engineering degree from Qingdao Agricultural University in 2023.
+I am a third-year Master's student at the School of Computer Science and Technology, Ocean University of China, under the supervision of Dr. [Yuezun Li](https://yuezunli.github.io/). I am currently a member of the [Visual Analysis & Security (VAS) Lab](https://yuezunli.github.io/lab.html), where I conduct research in the fields of multimedia forensics and AI security. Prior to this, I received my Bachelor of Engineering degree from Qingdao Agricultural University in 2023.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=UNd2St8AAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=UNd2St8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -81,8 +81,8 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 - *2025.10*, Excellent Graduate Student, Ocean University of China, Qingdao, China. 
 
 # 📖 Educations
-- *2023.09 - 2026.06 (now)*, [Ocean University of China](https://www.ouc.edu.cn/), Qingdao, China. 
-- *2019.09 - 2023.06*, [Qingdao Agricultural University](https://www.qau.edu.cn/), Qingdao, China. 
+- *2023.09 - 2026.06 (expected)*, Master, [Ocean University of China](https://www.ouc.edu.cn/), Qingdao, China. 
+- *2019.09 - 2023.06*, Bachelor, [Qingdao Agricultural University](https://www.qau.edu.cn/), Qingdao, China. 
 
 <!--# 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
@@ -97,6 +97,6 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
     - CCF-B: ICME'26;
     - CCF-C:
 - **Journal Reviewer**
-    - CCF-A: IEEE TIP,
+    - CCF-A: IEEE TIP;
     - CCF-B: 
-    - CCF-C: IEEE SPL,
+    - CCF-C: IEEE SPL;
