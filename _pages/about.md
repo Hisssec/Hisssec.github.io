@@ -94,7 +94,7 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 # 📑 Services
 - **Conference Reviewer**
     - CCF-A:
-    - CCF-B: ICME'26,
+    - CCF-B: ICME 2026,
     - CCF-C:
 - **Journal Reviewer**
     - CCF-A: IEEE TIP,
