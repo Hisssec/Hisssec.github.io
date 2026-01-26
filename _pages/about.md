@@ -53,7 +53,7 @@ Yuezun Li*, **Delong Zhu**, Xinjie Cui, Siwei Lyu
 
 Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 
-[**Code**](https://github.com/OUC-VAS/ForensicsAdapter) **| Stars: 82 | Citations: 1**
+[**Code**](https://github.com/OUC-VAS/ForensicsAdapter) **| Stars: 82 | Citations: 2**
 - arXiv:2411.19715, 2025. 
 - Extended from CVPR 2025.
 - Deepfake Detection.
@@ -67,7 +67,7 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 
 **Delong Zhu**, Yuezun Li*, Baoyuan Wu, Jiaran Zhou, Zhibo Wang, Siwei Lyu
 
-[**Code**](https://github.com/OUC-VAS/FacePoison) **| Stars: 11 | Citations: 4**
+[**Code**](https://github.com/OUC-VAS/FacePoison) **| Stars: 11 | Citations: 5**
 - IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025.
 - Extended from ICME 2023.
 - Proactive Deepfake Detection.
