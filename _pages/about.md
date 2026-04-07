@@ -38,7 +38,7 @@ I am a third-year Master's student at the School of Computer Science and Technol
 
 Yuezun Li*, **Delong Zhu**, Xinjie Cui, Siwei Lyu
 
-[**Code**](https://github.com/OUC-VAS/Celeb-DF-PP) **| Stars: 27 | Citations: 6**
+[**Code**](https://github.com/OUC-VAS/Celeb-DF-PP) **| Stars: 28 | Citations: 7**
 - arXiv:2507.18015, 2025.
 - An extension of [Celeb-DF](https://github.com/yuezunli/celeb-deepfakeforensics) dataset.
 - Extended from CVPR 2020.
@@ -53,7 +53,7 @@ Yuezun Li*, **Delong Zhu**, Xinjie Cui, Siwei Lyu
 
 Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 
-[**Code**](https://github.com/OUC-VAS/ForensicsAdapter) **| Stars: 88 | Citations: 39**
+[**Code**](https://github.com/OUC-VAS/ForensicsAdapter) **| Stars: 93 | Citations: 49**
 - arXiv:2411.19715, 2025.
 - An extension of [ForAda](https://openaccess.thecvf.com/content/CVPR2025/papers/Cui_Forensics_Adapter_Adapting_CLIP_for_Generalizable_Face_Forgery_Detection_CVPR_2025_paper.pdf) detector.
 - Extended from CVPR 2025.
@@ -68,7 +68,7 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 
 **Delong Zhu**, Yuezun Li*, Baoyuan Wu, Jiaran Zhou, Zhibo Wang, Siwei Lyu
 
-[**Code**](https://github.com/OUC-VAS/FacePoison) **| Stars: 13 | Citations: 5**
+[**Code**](https://github.com/OUC-VAS/FacePoison) **| Stars: 13 | Citations: 6**
 - IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025.
 - Extended from ICME 2023.
 - Proactive Deepfake Detection.
