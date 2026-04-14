@@ -25,7 +25,7 @@ I am a third-year Master's student at the School of Computer Science and Technol
 
 # 🔥 News
 - *2025.11*: &nbsp;📍📍 I attended The 6th CSIG China Conference on Media Forensics and Security (**ChinaMFS**), 2025.
-- *2025.07*: &nbsp;🎉🎉 One paper [**Celeb-DF++**](https://arxiv.org/abs/2507.18015) on Deepfake Dataset & Benchmark is released at arXiv.
+- *2025.07*: &nbsp;🎉🎉 One paper [**Celeb-DF++**](https://arxiv.org/abs/2507.18015) on Deepfake Dataset and Benchmark is released at arXiv.
 - *2025.07*: &nbsp;🎉🎉 One paper [**FacePoison**](https://ieeexplore.ieee.org/abstract/document/11106399) on Proactive Deepfake Detection is accepted by **TDSC 2025**. 
 - *2025.05*: &nbsp;🎉🎉 One paper [**ForAda++**](https://arxiv.org/abs/2411.19715) on Deepfake Detection is released at arXiv. 
 
@@ -42,7 +42,7 @@ Yuezun Li*, **Delong Zhu**, Xinjie Cui, Siwei Lyu
 - arXiv:2507.18015, 2025.
 - An extension of [Celeb-DF](https://github.com/yuezunli/celeb-deepfakeforensics) dataset.
 - Extended from CVPR 2020.
-- Deepfake Dataset & Benchmark.
+- Deepfake Dataset and Benchmark.
 </div>
 </div>
 
