@@ -82,8 +82,9 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 - *2025.10*, Excellent Graduate Student, Ocean University of China, Qingdao, China. 
 
 # 📖 Educations
-- *2023.09 - 2026.06 (expected)*, Master, [Ocean University of China](https://www.ouc.edu.cn/), Qingdao, China. 
-- *2019.09 - 2023.06*, Bachelor, [Qingdao Agricultural University](https://www.qau.edu.cn/), Qingdao, China. 
+- *2026.09 - 2030.06 (expected)*, Ph.D., [Ocean University of China](https://www.ouc.edu.cn/), Qingdao, China. 
+- *2023.09 - 2026.06*, M.S., [Ocean University of China](https://www.ouc.edu.cn/), Qingdao, China. 
+- *2019.09 - 2023.06*, B.S., [Qingdao Agricultural University](https://www.qau.edu.cn/), Qingdao, China. 
 
 <!--# 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
