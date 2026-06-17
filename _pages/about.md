@@ -24,10 +24,10 @@ I am a third-year Master's student at the School of Computer Science and Technol
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 One paper [**ForAda++**](https://arxiv.org/abs/2411.19715) on Deepfake Detection is accepted by **TPAMI 2026**. 
 - *2025.11*: &nbsp;📍📍 I attended The 6th CSIG China Conference on Media Forensics and Security (**ChinaMFS**), 2025.
 - *2025.07*: &nbsp;🎉🎉 One paper [**Celeb-DF++**](https://arxiv.org/abs/2507.18015) on Deepfake Dataset and Benchmark is released at arXiv.
 - *2025.07*: &nbsp;🎉🎉 One paper [**FacePoison**](https://ieeexplore.ieee.org/abstract/document/11106399) on Proactive Deepfake Detection is accepted by **TDSC 2025**. 
-- *2025.05*: &nbsp;🎉🎉 One paper [**ForAda++**](https://arxiv.org/abs/2411.19715) on Deepfake Detection is released at arXiv. 
 
 # 📝 Publications 
 
@@ -46,7 +46,7 @@ Yuezun Li*, **Delong Zhu**, Xinjie Cui, Siwei Lyu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='./images/overview/ForensicsAdapter++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF-A</div><img src='./images/overview/ForensicsAdapter++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Forensics Adapter: Unleashing CLIP for Generalizable Face Forgery Detection**](https://arxiv.org/abs/2411.19715)
@@ -54,7 +54,7 @@ Yuezun Li*, **Delong Zhu**, Xinjie Cui, Siwei Lyu
 Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 
 [**Code**](https://github.com/OUC-VAS/ForensicsAdapter) **| Stars: 104 | Citations: 85**
-- arXiv:2411.19715, 2025.
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026.
 - An extension of [ForAda](https://openaccess.thecvf.com/content/CVPR2025/papers/Cui_Forensics_Adapter_Adapting_CLIP_for_Generalizable_Face_Forgery_Detection_CVPR_2025_paper.pdf) detector.
 - Extended from CVPR 2025.
 - Deepfake Detection.
