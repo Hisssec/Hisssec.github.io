@@ -18,9 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <span class='anchor' id='services'></span>
 
-I am a first-year Ph.D. student at the School of Computer Science and Technology, Ocean University of China, under the supervision of Prof. [Hui Yu](https://it.ouc.edu.cn/yh1/list.htm). I am currently a member of the Visual Computing and Social Robot Group (VCSR-OUC), where my research focuses on adversarial attacks, embodied AI security, and multimedia forensics.
-
-Previously, I received my Master of Engineering degree from Ocean University of China in 2026 and my Bachelor of Engineering degree from Qingdao Agricultural University in 2023.
+I am a first-year Ph.D. student at the School of Computer Science and Technology, Ocean University of China, under the supervision of Prof. [**Hui Yu**](https://it.ouc.edu.cn/yh1/list.htm). I am currently a member of the Visual Computing and Social Robot Group (**VCSR-OUC**), where my research focuses on adversarial attacks, embodied AI security, and multimedia forensics. Previously, I received my Master of Engineering degree from Ocean University of China in 2026 and my Bachelor of Engineering degree from Qingdao Agricultural University in 2023.
 
 <!-- I am a third-year Master's student at the School of Computer Science and Technology, Ocean University of China, under the supervision of Assoc. Prof. [Yuezun Li](https://yuezunli.github.io/). I am currently a member of the [Visual Analysis & Security (VAS) Lab](https://yuezunli.github.io/lab.html), where I conduct research in the fields of multimedia forensics and AI security. Prior to this, I received my Bachelor of Engineering degree from Qingdao Agricultural University in 2023.-->
 
