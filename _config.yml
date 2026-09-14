@@ -24,7 +24,7 @@ author:
   name             : "Delong Zhu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : #"Ocean University of China"
-  location         : "Qingdao, China"
+  location         : #"Qingdao, China"
   employer         : "Ocean University of China"
   pubmed           : 
 
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # "https://dblp.org/pid/210/9651.html"
+  dblp             : "https://dblp.org/pid/210/9651-2.html"
   orcid            : "https://orcid.org/0009-0008-9410-8173"
   googlescholar    : "https://scholar.google.com.hk/citations?user=UNd2St8AAAAJ"
   pinterest        :
