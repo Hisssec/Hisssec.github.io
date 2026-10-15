@@ -26,17 +26,17 @@ I am a first-year Ph.D. student at the School of Computer Science and Technology
 
 
 # 🔥 News
-- *2026.10*: &nbsp;🌟🌟 Invited to serve as a reviewer for IEEE International Conference on Acoustics, Speech, and Signal Processing (** ICASSP 2027**).
+- *2026.10*: &nbsp;🌟🌟 Invited to serve as a reviewer for IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP 2027**).
 
 - *2026.06*: &nbsp;🎉🎉 One paper [**ForAda++**](https://ieeexplore.ieee.org/abstract/document/11575079) on Deepfake Detection is accepted by **TPAMI 2026**. 
 
-- *2026.01*: &nbsp;🌟🌟 Invited to serve as a reviewer for IEEE International Conference on Multimedia & Expo (** ICME 2026**).
+- *2026.01*: &nbsp;🌟🌟 Invited to serve as a reviewer for IEEE International Conference on Multimedia & Expo (**ICME 2026**).
 
-- *2025.11*: &nbsp;📍📍 I attended The 6th CSIG China Conference on Media Forensics and Security (**ChinaMFS**).
+- *2025.11*: &nbsp;📍📍 I attended The 6th CSIG China Conference on Media Forensics and Security (**ChinaMFS 2025**).
 
-- *2025.10*: &nbsp;🌟🌟 Invited to serve as a reviewer for IEEE Transactions on Image Processing (** IEEE TIP**).
+- *2025.10*: &nbsp;🌟🌟 Invited to serve as a reviewer for IEEE Transactions on Image Processing (**IEEE TIP**).
 
-- *2025.09*: &nbsp;🌟🌟 Invited to serve as a reviewer for IEEE Signal Processing Letters (** IEEE SPL**).
+- *2025.09*: &nbsp;🌟🌟 Invited to serve as a reviewer for IEEE Signal Processing Letters (**IEEE SPL**).
 
 - *2025.07*: &nbsp;🎉🎉 One paper [**Celeb-DF++**](https://arxiv.org/abs/2507.18015) on Deepfake Dataset and Benchmark is released at arXiv.
 
